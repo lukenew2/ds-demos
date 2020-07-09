@@ -8,14 +8,14 @@ In this repository we will go over three techniques used to find optimal hyperpa
 * Randomized Search
 * Bayesian Optimization
 
-You can view the jupyter notebook [here](https://github.com/lukenew2/hyper_parameter_optimization/blob/master/hyper_parameter_optimization.ipynb)
+You can view the jupyter notebook [here](https://github.com/lukenew2/hyper_parameter_optimization/blob/master/hyper_parameter_optimization.ipynb).
 
 # Grid Search
 
 One option would be to fiddle around with the hyperparameters manually, until you find a great combination of hyperparameter values that optimize your performance metric. This would be very tedious work, and you may not have time to explore many combinations.
 
 <p align="center">
-<img src="images/grid_search_photo.png"/>
+<img src="images/grid_search_photo.png" />
 </p>
 
 # Randomized Search
@@ -26,7 +26,7 @@ The grid search approach is fine when you are exploring relatively few combinati
 * Simply by setting the number of iterations, you have more control over the computing budget you want to allocate to hyperparameter search.
 
 <p align="center">
-<img src="images/randomized_search_photo.png"/>
+<img src="images/randomized_search_photo.png" />
 </p>
 
 # Bayesian Optimization
@@ -38,11 +38,11 @@ Fortunately, there are many techniques to explore a search space much more effic
 One such technique is called Bayesian Optimization and we will use Scikit-Optimize (Skopt) https://scikit-optimize.github.io/ to perform Bayesian Optimization. Skopt is a general-purpose optimization library that performs Bayesian Optimization with its class `BayesSearchCV` using an interface similar to `GridSearchCV`.
 
 <p align="center">
-<img src="images/bayesian_optimization_pro_cons.png"/>
+<img src="images/bayesian_optimization_pro_cons.png" />
 </p>
 
 # Conclusion
 
 <p align="center">
-<img src="images/conclusion_slide.png"/>
+<img src="images/conclusion_slide.png" />
 </p>
