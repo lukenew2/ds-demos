@@ -41,7 +41,11 @@ One such technique is called Bayesian Optimization and we will use Scikit-Optimi
 <img src="images/bayesian_optimization_pro_cons.png" />
 </p>
 
-# Conclusion
+# Conclusions
+
+Hyperparameter tuning is still an active area of research, and different algorithms are being produced today. But having basic algorithms in your back pocket can alleviate a lot of the tedious work searching for the best hyperparameters.
+
+Remember, randomized search is almost always preferable then grid search unless you have very few hyperparameters to explore. If you have a more complex problem using a larger dataset you might want to turn to a technique that explores a search space much more efficiently like Bayesian Optimization.
 
 <p align="center">
 <img src="images/conclusion_slide.png" />
