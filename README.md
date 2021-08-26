@@ -1,5 +1,4 @@
 # Data Science Demos
----
 ## About
 Repository containing ideas and concepts presented in write-ups and tutorials.
 
