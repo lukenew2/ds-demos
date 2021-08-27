@@ -10,6 +10,6 @@ of reproducibility.
 
 ## Concepts
 - [Hyperparameter Optimization with Scikit-Learn, Scikit-Opt, and Keras](https://github.com/lukenew2/ds-demos/blob/master/notebooks/hyper_parameter_optimization.ipynb)
-    - **Write-Up**: [Medium](https://towardsdatascience.com/hyperparameter-optimization-with-scikit-learn-scikit-opt-and-keras-f13367f3e796)
+    - [Write-Up](https://towardsdatascience.com/hyperparameter-optimization-with-scikit-learn-scikit-opt-and-keras-f13367f3e796)
 - [HyperTuning with KerasTuner and TensorFlow](https://github.com/lukenew2/ds-demos/blob/master/notebooks/hypertuning_kerastuner.ipynb)
-    - **Write-Up**: [Medium]()
+    - [Write-Up] 
